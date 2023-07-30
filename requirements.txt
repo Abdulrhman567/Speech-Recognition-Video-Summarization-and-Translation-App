@@ -1,0 +1,9 @@
+customtkinter==5.1.2
+pillow==9.5.0
+psycopg2==2.9.6
+bcrypt==4.0.1
+SpeechRecognition==3.10.0
+nltk==3.8.1
+sacremoses
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
